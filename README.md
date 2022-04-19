@@ -296,4 +296,5 @@ let words = HanLP.Summary( text , 3);
 	@param String text 文本
 	@ruten String type 类型 类型 num数字音调|tone符号音调|outtone无音调|shengmu声母|yunmu韵母|head输入法头，默认outtone 
 	@ruten Object
-
+### docker版本
+https://hub.docker.com/r/samurais/hanlp-api
